@@ -1,0 +1,116 @@
+{
+	"location": {
+		"woeid": 1132496,
+		"city": "Incheon",
+		"region": " Incheon",
+		"country": "South Korea",
+		"lat": 37.704639,
+		"long": 126.440872,
+		"timezone_id": "Asia/Seoul"
+	},
+	"current_observation": {
+		"wind": {
+			"chill": 81,
+			"direction": 90,
+			"speed": 11.18
+		},
+		"atmosphere": {
+			"humidity": 65,
+			"visibility": 10.0,
+			"pressure": 29.56,
+			"rising": 0
+		},
+		"astronomy": {
+			"sunrise": "5:19 am",
+			"sunset": "7:59 pm"
+		},
+		"condition": {
+			"text": "Mostly Cloudy",
+			"code": 27,
+			"temperature": 81
+		},
+		"pubDate": 1562418000
+	},
+	"forecasts": [
+		{
+			"day": "Sat",
+			"date": 1562338800,
+			"low": 72,
+			"high": 91,
+			"text": "Mostly Sunny",
+			"code": 34
+		},
+		{
+			"day": "Sun",
+			"date": 1562425200,
+			"low": 71,
+			"high": 87,
+			"text": "Mostly Cloudy",
+			"code": 28
+		},
+		{
+			"day": "Mon",
+			"date": 1562511600,
+			"low": 69,
+			"high": 84,
+			"text": "Partly Cloudy",
+			"code": 30
+		},
+		{
+			"day": "Tue",
+			"date": 1562598000,
+			"low": 68,
+			"high": 84,
+			"text": "Partly Cloudy",
+			"code": 30
+		},
+		{
+			"day": "Wed",
+			"date": 1562684400,
+			"low": 69,
+			"high": 81,
+			"text": "Scattered Showers",
+			"code": 39
+		},
+		{
+			"day": "Thu",
+			"date": 1562770800,
+			"low": 68,
+			"high": 80,
+			"text": "Scattered Showers",
+			"code": 39
+		},
+		{
+			"day": "Fri",
+			"date": 1562857200,
+			"low": 70,
+			"high": 79,
+			"text": "Partly Cloudy",
+			"code": 30
+		},
+		{
+			"day": "Sat",
+			"date": 1562943600,
+			"low": 69,
+			"high": 80,
+			"text": "Partly Cloudy",
+			"code": 30
+		},
+		{
+			"day": "Sun",
+			"date": 1563030000,
+			"low": 69,
+			"high": 81,
+			"text": "Scattered Thunderstorms",
+			"code": 47
+		},
+		{
+			"day": "Mon",
+			"date": 1563116400,
+			"low": 70,
+			"high": 82,
+			"text": "Scattered Thunderstorms",
+			"code": 47
+		}
+	]
+}
