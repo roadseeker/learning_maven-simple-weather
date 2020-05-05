@@ -14,7 +14,7 @@ import org.apache.velocity.app.Velocity;
 /**
  * <pre>
  * org.sonatype.mavenbook.ch04.weather
- * WeatherFormattrer.java
+ * WeatherFormatter.java
  * </pre>
  *
  * @author		: roadseeker
